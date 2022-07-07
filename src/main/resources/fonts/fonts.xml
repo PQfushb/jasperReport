@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<fontFamilies>
+    <fontFamily name="新宋体常规"><!--字体名称-->
+        <normal>fonts/新宋体常规.ttf</normal><!--字体文件的路径-->
+        <bold>fonts/新宋体常规.ttf</bold>
+        <italic>fonts/新宋体常规.ttf</italic>
+        <boldItalic>fonts/新宋体常规.ttf</boldItalic>
+        <pdfEncoding>Identity-H</pdfEncoding><!--这里的定义就与上面1.1的图设置相匹配了-->
+        <pdfEmbedded>true</pdfEmbedded>
+        <exportFonts>
+            <export key="net.sf.jasperreports.html">'新宋体常规', Arial, Helvetica, sans-serif</export>
+            <export key="net.sf.jasperreports.xhtml">'新宋体常规', Arial, Helvetica, sans-serif</export>
+        </exportFonts>
+    </fontFamily>
+    <fontFamily name="SIMLI"><!--字体名称-->
+        <normal>fonts/SIMLI.TTF</normal><!--字体文件的路径-->
+        <bold>fonts/SIMLI.TTF</bold>
+        <italic>fonts/SIMLI.TTF</italic>
+        <boldItalic>fonts/SIMLI.TTF</boldItalic>
+        <pdfEncoding>Identity-H</pdfEncoding><!--这里的定义就与上面1.1的图设置相匹配了-->
+        <pdfEmbedded>true</pdfEmbedded>
+        <exportFonts>
+            <export key="net.sf.jasperreports.html">'SIMLI', Arial, Helvetica, sans-serif</export>
+            <export key="net.sf.jasperreports.xhtml">'SIMLI', Arial, Helvetica, sans-serif</export>
+        </exportFonts>
+    </fontFamily>
+</fontFamilies>
